@@ -1,0 +1,6 @@
+RpcUrl = "http://127.0.0.1:8545"
+ContractAddress = "0xe8515F7c4D6BD4AC726ED1D36895cbf611b1a0Ad"
+ApiUrl = "https://explorer.hypra.network/api?module=stats&action=ethsupply"
+Addresses = [""]
+Port = "3000"
+Mode = "release"
